@@ -7,6 +7,17 @@ The application was developed in a team of five developers. We collaborated on b
 
 Original team repository: [FiveEnds / Frontend](https://github.com/FiveEnds/Frontend)
 
+### My Contributions
+
+My primary focus was developing product and shopping cart interfaces, implementing state management, and creating responsive and interactive UI components.
+
+- Developed responsive product and shopping cart interfaces using React functional components and TypeScript.
+- Implemented shopping cart functionality with Zustand, including adding and removing products, quantity management, and dynamic price calculation.
+- Integrated interactive UI states for cart and favourites, including empty states and dynamic button behavior.
+- Implemented responsive layouts for mobile, tablet, and desktop devices using Tailwind CSS.
+- Integrated interactive animations and visual effects using Motion and Canvas Confetti.
+- Focused on reusable components, clean code structure, and maintainable UI architecture.
+
 ## Features
 - Product Catalog — browse products and explore product cards.
 - Filtering & Sorting — find products using available filters and sorting options.
@@ -27,17 +38,6 @@ Original team repository: [FiveEnds / Frontend](https://github.com/FiveEnds/Fron
   
 ## Demo
 [DEMO LINK](https://nice-gadgets-cv.netlify.app/#/) - (deployed on Netlify)
-
-ps: My Contributions
-
-My primary focus was developing product and shopping cart interfaces, implementing state management, and creating responsive and interactive UI components.
-
-- Developed responsive product and shopping cart interfaces using React functional components and TypeScript.
-- Implemented shopping cart functionality with Zustand, including adding and removing products, quantity management, and dynamic price calculation.
-- Integrated interactive UI states for cart and favourites, including empty states and dynamic button behavior.
-- Implemented responsive layouts for mobile, tablet, and desktop devices using Tailwind CSS.
-- Integrated interactive animations and visual effects using Motion and Canvas Confetti.
-- Focused on reusable components, clean code structure, and maintainable UI architecture.
 
 ## Getting Started
 
